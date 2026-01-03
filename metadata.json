@@ -1,0 +1,8 @@
+{
+  "name": "Nexus Game Zone",
+  "description": "A high-octane gaming hub featuring VR adventures, retro arcades, and competitive arenas with an AI-powered game recommender.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
